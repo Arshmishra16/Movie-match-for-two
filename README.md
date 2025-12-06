@@ -1,2 +1,22 @@
 # Movie-match-for-two
-Movie Match for Two is a simple app that helps two people find a movie they can both enjoy. Each person selects a few movies they like, and the app compares those choices to a large movie dataset. It then recommends films that best match both sets of preferences.
+Movie Match for Two is a simple app that helps two people quickly find a movie they’ll both enjoy. Each person selects a few movies they like, the app compares those choices using a recommendation model, and then it suggests films that best fit both of their tastes. The goal is to make choosing a movie easier and avoid the usual indecision or scrolling.
+
+The project is built with a modern web stack to keep everything fast, responsive, and easy to maintain. It uses TypeScript, React, and Next.js for the main app structure, with Tailwind CSS for styling and smooth UI animations. A few helper libraries—like lucide-react for icons, clsx and tailwind-merge for cleaner class handling, and @radix-ui/react-scroll-area for polished scrolling—help make the interface feel clean and intuitive.
+
+Tech Used
+Languages
+TypeScript
+CSS
+HTML (JSX)
+
+
+Packages & Libraries
+next
+react
+react-dom
+tailwindcss
+tw-animate-css
+lucide-react
+@radix-ui/react-scroll-area
+clsx
+tailwind-merge
